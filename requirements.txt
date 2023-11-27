@@ -1,0 +1,15 @@
+# This file lists the libraries required for the project to run.
+# No specific version number is specified for the listed libraries.
+# Instead, the most current version of each library should be used.
+
+- python 
+- numpy
+- pandas
+- tensorflow
+- keras
+- scikit-learn
+- matplotlib
+- seaborn
+- keras-tuner
+- Pillow
+
